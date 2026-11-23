@@ -107,20 +107,6 @@ Serão implementados testes para validar:
 - Monitoramento e análise em tempo real.
 - Integração com outras ferramentas de monitoramento.
 
-## Objetivo profissional
-
-O Traceon é um projeto de desenvolvimento prático com foco na aplicação de conceitos de Engenharia de Software.
-
-Seu desenvolvimento busca integrar conhecimentos de:
-
-- Desenvolvimento Backend.
-- Engenharia de Qualidade de Software (QA).
-- Análise e diagnóstico de problemas.
-- Desenvolvimento e documentação de APIs REST.
-- Testes automatizados.
-- Boas práticas de arquitetura e manutenção de software.
-- Versionamento e documentação técnica.
-
 ---
 
 **Traceon — Transformando logs em respostas.**
